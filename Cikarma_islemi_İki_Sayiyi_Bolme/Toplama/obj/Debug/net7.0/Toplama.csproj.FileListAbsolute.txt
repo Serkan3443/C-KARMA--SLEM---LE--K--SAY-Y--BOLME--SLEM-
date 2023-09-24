@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\bin\Debug\net7.0\Toplama.exe
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\bin\Debug\net7.0\Toplama.deps.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\bin\Debug\net7.0\Toplama.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\bin\Debug\net7.0\Toplama.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\bin\Debug\net7.0\Toplama.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\Toplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\Toplama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\Toplama.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\Toplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\Toplama.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\refint\Toplama.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\Toplama.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\Toplama.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\Toplama\Toplama\obj\Debug\net7.0\ref\Toplama.dll
